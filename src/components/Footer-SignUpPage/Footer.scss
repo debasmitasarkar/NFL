@@ -1,0 +1,21 @@
+.footer{
+    width:60%;
+    height:40px;
+    box-shadow:0px 0px 10px 0px grey;  
+    bottom: 0;
+    padding:0;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    clear: both;
+    position: fixed;
+    background-color: white;
+    button{
+        width:10%;
+        border: none;
+        background: transparent;
+        font-size: 1.2em;
+        color:#4E4E4E;
+    }
+}
+
